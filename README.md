@@ -1,5 +1,6 @@
 # LuaMatrix
-An improved, also 3D version of cmatrix, but written in lua.
+An improved, also 3D version of cmatrix, but written in lua.\
+The one inside the All folder is deprecated, use the one in LuaMatrix instead.
 
 
 
